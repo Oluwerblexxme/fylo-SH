@@ -1,0 +1,29 @@
+
+@media (max-width:760px) {
+img. p-image{ width:90%; height:auto;}
+.p-text {
+    width:98%;}
+    .grid-container{ display: block;}
+    .row2{ display:block;}
+
+    flex-card
+    { width:100%; margin:8% 0;}
+    .quote {position: static; margin: 20% 0 0 10%;}
+    .bottom-grid {display:block;}
+    .b-card{margin:6%}
+    .float { position:static;
+    width:75%; margin:auto;
+           padding:20%;}
+
+
+           input.early {width:90%; margin :4% auto;}
+           .float button { width:90%;margin:4% auto;}
+
+           .container{ display:flex;
+        flex-direction:column;
+    align-items:flex-start;}
+    .f-logo, .contact, .social-media{ margin:7%;}
+
+    .social-media {align-self:center;}
+
+    
